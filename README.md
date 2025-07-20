@@ -1,4 +1,4 @@
-🎓 **NLCPHS Student Performance Dashboard**
+🎓 #**NLCPHS Student Performance Dashboard**
 
 📌 **Overview**
 
@@ -26,6 +26,8 @@ The NLCPHS Student Performance Dashboard is a comprehensive, automated data visu
 
 🚀 **End-to-End Automation:** Ensures real-time dashboard refreshes with minimal manual intervention.
 
+
+
 📁 **Repository Structure**
 
 **NLCPHS_Student_Performance_Dashboard/**
@@ -44,9 +46,13 @@ The NLCPHS Student Performance Dashboard is a comprehensive, automated data visu
 🛠️** Tech Stack**
 
 Python (API access, ETL automation)
+
 Google Cloud Platform (VM, MySQL instance)
+
 SQL (MySQL) (Schema design, custom views)
+
 Tableau (Dashboards, calculated fields, dynamic parameters)
+
 PowerSchool API (Primary data source)
 
 🎯** Use Case**
@@ -63,6 +69,7 @@ Improve decision-making with intuitive visuals
 
 
 🧠 **Insights Delivered**
+
 Identification of at-risk students through combined GPA + behavior trend metrics.
 
 Improved transparency for teachers and school leaders through interactive drill-downs.
