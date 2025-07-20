@@ -1,9 +1,11 @@
 🎓 **NLCPHS Student Performance Dashboard**
 
 📌 **Overview**
+
 The NLCPHS Student Performance Dashboard is a comprehensive, automated data visualization solution built to track and analyze key student performance indicators. The project integrates data engineering (Python, SQL, GCP), ETL, and advanced Tableau dashboarding to deliver real-time, actionable insights for educators and administrators at NLCPHS.
 
 ⚙️ **Key Features**
+
 🔄 Automated Data Pipeline: Python scripts fetch data from the PowerSchool API, clean and transform it, and load it into a MySQL database—all scheduled on a GCP-hosted virtual machine.
 
 🧹 Data Cleaning & Transformation: Removed redundant columns, handled null values, fixed data types, and de-duplicated entries before storing them in GCP MySQL.
@@ -11,8 +13,11 @@ The NLCPHS Student Performance Dashboard is a comprehensive, automated data visu
 📊 16 Dynamic Tableau Dashboards: Designed to monitor:
 
 **Student attendance**
+
 **GPA trends and academic grades**
+
 **Behavior logs and incident reports**
+
 **Growth targets and benchmark performance**
 
 🎛️ **Dynamic Parameters & Filtering:** Users can interact with the dashboards using dropdowns and filters that update all related visuals simultaneously.
