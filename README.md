@@ -31,19 +31,20 @@ The NLCPHS Student Performance Dashboard is a comprehensive, automated data visu
 📁 **Repository Structure**
 
 **NLCPHS_Student_Performance_Dashboard/**
-├── **Dashboard Documentation/ **           # Word files describing dashboard logic and insights
-│
-├── **Data Pipeline/**                            # Python-MySQL-GCP pipeline documentation
-│
-├── **Dashboards with their respective data sources.xlsx**  # Mapping of dashboards to datasets
-│
-├── **Python Scripts/ **                          # Python code used for data extraction and transformation
-│
-├── **Tableau Dashboard files/ **                 # .twb/.twbx Tableau files used in the project
-│
-└── **README.md  **                               # This file
 
-🛠️** Tech Stack**
+Dashboard Documentation/ – Contains Word documents explaining dashboard logic and insights.
+
+Data Pipeline/ – Contains Word documentation of the Python → MySQL → GCP data flow.
+
+Dashboards with their respective data sources.xlsx – Excel file mapping each Tableau dashboard to its dataset.
+
+Python Scripts/ – Contains .py files for API extraction, data cleaning, and transformation.
+
+Tableau Dashboard files/ – Contains Tableau .twb or .twbx files for the dashboards.
+
+README.md – Project overview, features, structure, and usage instructions.
+
+🛠️**Tech Stack**
 
 Python (API access, ETL automation)
 
@@ -55,7 +56,7 @@ Tableau (Dashboards, calculated fields, dynamic parameters)
 
 PowerSchool API (Primary data source)
 
-🎯** Use Case**
+🎯**Use Case**
 
 This solution is ideal for school districts or institutions looking to:
 
