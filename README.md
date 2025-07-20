@@ -1,4 +1,4 @@
-🎓 #**NLCPHS Student Performance Dashboard**
+🎓 **NLCPHS Student Performance Dashboard**
 
 📌 **Overview**
 
